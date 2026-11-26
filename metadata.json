@@ -1,0 +1,6 @@
+{
+  "name": "LLM-as-a-Judge Reliability Tester",
+  "description": "Evaluate LLM judge reliability, human agreement, position-bias flip rate, and length preference using dual-pass swapped Gemini evaluations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
